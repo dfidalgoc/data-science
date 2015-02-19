@@ -1,2 +1,2 @@
-# data-science
+# datasciencecoursera
 Repository for my Data Science classes
